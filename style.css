@@ -1,0 +1,230 @@
+body{
+    border: 10px solid black;
+    background-image: url(https://img.freepik.com/premium-photo/abstract-blur-hotel-restaurant-background_1339-171645.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#heading{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+#heading1{
+    border: 6px solid red;
+    border-radius: 50px;
+    height: 150px;
+    width: 350px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+}
+
+.h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+#heading2 {
+    font-weight: lighter;
+    font-style: italic;
+    font-size: xx-large;
+    border: 6px solid red;
+    border-radius: 50px;
+    height: 80px;
+    width: 450px;
+    margin-left: -5px;
+    margin-top: 30px;
+    padding-left: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.h2{
+    margin-right: 10px;
+}
+
+#heading3 {
+    font-weight: bold;
+    font-style: italic;
+    font-size: x-large;
+    height: 150px;
+    width: 350px;
+    border: 6px solid red;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+}
+
+.h3 {
+    display: flex;
+    justify-content: center;
+    padding-top: 18px;
+}
+
+#exoffer{
+    display: flex;
+}
+
+#offer{
+    height: 430px;
+    width: 430px;
+    border: 7px solid red;
+    border-radius: 50%;
+    background-color: aquamarine;
+    margin-top: 200px;
+}
+
+.p1 {
+    color: black;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: x-large;
+    font-style: italic;
+    margin-top: 100px;
+    margin-left: 110px;
+}
+
+.p2 {
+    color: black;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.p3 {
+    color: black;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+
+#reg {
+    height: 770px;
+    width: 500px;
+    border: 7px dashed red;
+    display: flex;
+    justify-content: center;
+}
+
+#regh1 {
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    color: red;
+}
+
+.form-d {
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    font-weight: 600;
+    color: red;
+}
+
+.details {
+    display: flex;
+    margin-left: 123px;
+    align-items: center;
+}
+
+.date {
+    display: flex;
+    margin-left: 115px;
+    width: 160px;
+    align-items: center;
+}
+
+.check {
+    margin-left: 190px;
+}
+
+#click {
+    margin-left: 155px;
+}
+
+#reset {
+    margin-left: 173px;
+}
+
+#menu {
+    font-weight: bold;
+    font-size: xx-large;
+    font-style: italic;
+    text-transform: uppercase;
+    height: 100px;
+    width: 500px;
+    border: 7px solid red;
+    border-radius: 35px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 445px;
+    margin-top: 30px;
+}
+
+.menu1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+    color: darkblue;
+}
+
+.box1 {
+    border: 3px solid red;
+    border-radius: 35px;
+    background-color: aquamarine;
+    width: 25%;
+}
+
+.food {
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 60px;
+}
+
+.foodb{
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+li{
+    font-size: larger;
+}
+
+.menu2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+    color: darkblue;
+    padding-bottom: 30px;
+}
+
+.box2 {
+    border: 3px solid red;
+    border-radius: 35px;
+    background-color: aquamarine;
+    width: 25%;
+}
